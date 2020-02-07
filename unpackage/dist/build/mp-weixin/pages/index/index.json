@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "菜单",
+  "usingComponents": {
+    "m-store-pro": "/components/m-store-pro",
+    "uni-number-box": "/components/uni-number-box/uni-number-box",
+    "m-footer-car": "/components/m-footer-car"
+  }
+}
